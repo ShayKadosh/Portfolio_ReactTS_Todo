@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  margin: 100px;
+}
+
+.DeleteItemButton {
+  margin-left: 10px !important;
+}
+
+.AddTodoButton {
+  margin: 10px;
+}
